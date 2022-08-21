@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-Hi,My name is Aman.
-=======
-hi,My name is Aman.
->>>>>>> Stashed changes
+Hi, My name is Aman.
